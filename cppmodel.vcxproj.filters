@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{b8ae5a4c-5ff2-4b0e-885a-93d451cbe7ba}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\singleInherit.h">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\nonInherit.h">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\virtualInherit.h">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\virtualInheritPlus.h">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\multiInheritPlus.h">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\multiInherit.h">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
